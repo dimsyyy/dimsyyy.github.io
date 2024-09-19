@@ -1,1 +1,2 @@
-"# dimsyyy.github.io" 
+WEBSITE BY: DIMAS YUDA PRATAMA <br>
+BISMILLAH PROGRAMMER
